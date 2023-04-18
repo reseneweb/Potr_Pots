@@ -9,8 +9,11 @@ And BEM methodology to simplify and speed up development.
 The project is structured using semantic tags.
 
 The site is responsive and has formats for any device:
+
 Desktop>1280px
+
 Tablet >640px
+
 Mobile>320px
 
 The project used: hover styles, transformation, scrolling, smooth page navigation from the menu, form, placeholders and others.
