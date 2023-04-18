@@ -1,6 +1,6 @@
-# POTR POTS landing page (HARD)
+# POTR POTS
 
-POTRPOTS is a commercial project based on the sale of ecological, self-watering origami plant pots.
+POTRPOTS - is a commercial project based on the sale of ecological, self-watering origami plant pots.
 
 The project used HTML, CSS, SASS, JS.
 And BEM methodology to simplify and speed up development.
